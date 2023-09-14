@@ -206,16 +206,16 @@ a {
 }
 
 .header-img-1 {
-    background-image: url(/assets/img/home-img/slider-1.jpg);
+    background-image: url(assets/img/home-img/slider-1.jpg);
 
 }
 
 .header-img-2 {
-    background-image: url(/assets/img/home-img/slider-2.jpg);
+    background-image: url(assets/img/home-img/slider-2.jpg);
 }
 
 .header-img-3 {
-    background-image: url(/assets/img/home-img/slider-3.jpg);
+    background-image: url(assets/img/home-img/slider-3.jpg);
 }
 
 .circle-under-slider {
