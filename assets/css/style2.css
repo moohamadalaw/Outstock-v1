@@ -211,11 +211,11 @@ a {
 }
 
 .header-img-2 {
-    background-image: url(/assets/img/home-img/slider-2.jpg);
+    background-image: url(../img/home-img/slider-2.jpg);
 }
 
 .header-img-3 {
-    background-image: url(/assets/img/home-img/slider-3.jpg);
+    background-image: url(../img/home-img/slider-3.jpg);
 }
 
 
