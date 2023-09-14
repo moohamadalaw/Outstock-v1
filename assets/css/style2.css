@@ -206,7 +206,7 @@ a {
 }
 
 .header-img-1 {
-    background-image: url(/assets/img/home-img/slider-1.jpg) !important;
+    background-image: url(../img/home-img/slider-1.jpg);
 
 }
 
